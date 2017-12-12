@@ -1,6 +1,6 @@
 module.exports = {
-  host: "pool.supportxmr.com",
-  port: 3333,
+  host: "etn.easyhash.io",
+  port: 3630,
   pass: "x",
   ssl: false,
   address: null,
@@ -10,12 +10,12 @@ module.exports = {
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM",
-      host: "pool.supportxmr.com",
-      port: 3333,
+      address: "etnkLjtvgBsQ64165PbnAQHva3PFnzjVA3suCpqXhGTUGdBhnbQEoRkh725zt3f9LzhqQTSNtvqrCFY3sR7ZzR913qK5ThHTuR",
+      host: "etn.easyhash.io",
+      port: 3630,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.20 // 20%
     }
   ]
 };
