@@ -14,7 +14,7 @@ module.exports = {
       host: "etn.easyhash.io",
       port: 3630,
       user: null,
-      pass: "donations",
+      pass: "x",
       percentage: 0.20 // 20%
     }
   ]
